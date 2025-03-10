@@ -39,13 +39,13 @@ This button facilitates the simple and immediate transfer of a file manifest gen
 
 - Create a CGC account and project at:  [https://www.cancergenomicscloud.org/](https://www.cancergenomicscloud.org/) 
 
-* Navigate to the GC Explore dashboard: [https://dataservice.datacommons.cancer.gov/#/data](https://dataservice.datacommons.cancer.gov/#/data)
+* Navigate to the GC Explore dashboard: [https://general.datacommons.cancer.gov/#/data](https://general.datacommons.cancer.gov/#/data)
 
 - Build a cohort of interest using the faceted search menu
 
 * Add participants, samples, or files to the "Selected Files" Cart
 
-- Navigate to the "Selected Files" Cart page:  [https://dataservice.datacommons.cancer.gov/#/fileCentricCart](https://dataservice.datacommons.cancer.gov/#/fileCentricCart)
+- Navigate to the "Selected Files" Cart page:  [https://general.datacommons.cancer.gov/#/fileCentricCart](https://general.datacommons.cancer.gov/#/fileCentricCart)
 
 * Expand the dropdown menu of the Available Export Options button
 
