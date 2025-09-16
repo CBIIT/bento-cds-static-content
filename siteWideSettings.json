@@ -1,6 +1,6 @@
 {
     "maintenanceMode" : {
         "enabled": true,
-        "isInPermanentMode": false
+        "isInPermanentMode": true
     }
 }
